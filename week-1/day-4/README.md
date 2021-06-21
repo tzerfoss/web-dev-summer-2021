@@ -80,7 +80,9 @@ Having Trouble?
 
 ### Weekend Assignment Due Monday, June 28th, 12 pm PST
 
-You are going to do all of your work in `assignment.html & assignment.css`
+You are going to do all of your work at this repo:
+
+https://github.com/Vets-In-Tech/week1HWJune2021
 
 Take a look at the brochure image file in the assignment folder!
 
