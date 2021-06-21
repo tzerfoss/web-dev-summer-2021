@@ -2,6 +2,41 @@
 
 ## Week 1 Day 4
 
+
+### What are we doing today?
+We are learning an easier way to display elements how we want them by using Flexbox.
+
+
+### Why are we doing this?
+The following simple layout requirements are either difficult or impossible to achieve with other tools, in any kind of convenient, flexible way:
+
+
+- Vertically centering a block of content inside its parent.
+- Making all the children of a container take up an equal amount of the available width/height, regardless of how much width/height is available.
+- Making all columns in a multiple-column layout adopt the same height even if they contain a different amount of content.
+
+
+### How do I know if I am tracking?
+If you can answer the questions or do these tasks below (and please don't just say in your head yes. Even if you can do it, for practice actually implement each these in each section)
+1. You can center a div in the middle of the screen.
+2. You know how to select an id that you created on tag.
+3. You can stack images horizontally at will.
+
+
+### Learning Objectives
+
+- Flexbox
+
+
+### Concepts
+   - Inline-block
+   - Parent 
+   - Child
+   - CSS Properties and Values
+   - Flex container and flex items
+   - Justify Content
+   - Flexbox Froggu
+
 ### Warm Up [10 minutes]
 
 At this point, if you're reading this in your editor, you have successfully perform a git pull!
@@ -29,71 +64,25 @@ Having Trouble?
 
 1. Did you use the `style` attribute within the opening tag for your in-line styles?
 2. Did you `<link>` your CSS file to your `warm-up.html`?
+   
+   
+### References
 
+**[Flexbox MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)** <br>
+**[Flexbox Froggy](https://flexboxfroggy.com/)** <br>
 
-
-### Learning Objectives
-
-- Git Hub Pull
-- Page Layout (Formatting a page/Putting it all together)
-- Selectors (In-depth/Continued)
-- Git Hub Push & Pull Request
-
-### Concepts
-   -color values
-      - hex colors, color names, color picker
-   - <span> element
-   - CSS Box model
-   - margin, padding, border
-   - shorthand properties?
-   - background, font, display
-   - color, opacity, width/height, text-align
-   - comments
-   - lorem ipsum
-
-## The Cascade in Cascading Style Sheets
-   Cascade: "The process of combining different stylesheets and resolving conflicts between different CSS rules and declarations, when more than one rule applies to a certain element" -Jonas Schmedtmann, Web Developer, Designer, and Teacher
-
-### IMPORTANCE > SPECIFICITY > SOURCE ORDER
-
-## ONLY USE !important FOR DEBUGGING
-
-(see cascade diagram for specificity & source order)
-
-### Cascade & Specificity
-   -CSS declarations marked with !important have the highest priority
-   -Inline styles have priority over external stylesheets
-   -A selector that contains 1 ID is more specific than one with 1000 classes
-   -A selector that contains 1 class is more specific than one with 1000 elements
-   -The universal selector * has no specificity value (0, 0, 0, 0)
-   -Rely more on specificity than order of selectors
-   -Rely on order when using 3rd party stylesheets-  put yours last in the html head or your styles will be over-written by the 3rd party's
-
-
-#### References
-
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks
-
-https://www.w3schools.com/cssref/func_rgb.asp
-
-https://www.w3schools.com/colors/colors_hexadecimal.asp
-
-https://www.w3schools.com/colors/colors_names.asp
-
-https://www.w3schools.com/cssref/pr_text_text-transform.asp
-
-https://www.w3schools.com/css/css_align.asp
-
-https://www.w3schools.com/cssref/pr_font_font-size.asp
+- https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
 ### Retrospective
 
-### Assignment
+### Weekend Assignment Due Monday, June 28th, 12 pm PST
 
 You are going to do all of your work in `assignment.html & assignment.css`
 
-Take a look at the brochure image file in this directory!
+Take a look at the brochure image file in the assignment folder!
 
 You are going to recreate the image by using everything we learned this week.
 
@@ -105,6 +94,16 @@ We are looking the use of :
 - the page layout
 - borders!
 
-Bonus: Add a music player!
+Bonus: Create a page link that takes the user to a music player!
 
 To receive credit for this assignment, please submit a pull request **NO LATER THAN MONDAY 12:00 PM PST**
+
+Roomname: Summer2021VETSINTECH
+https://b.socrative.com/login/student/?feature=embed
+
+
+
+
+#### Reference
+- [Overflow](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content)
+

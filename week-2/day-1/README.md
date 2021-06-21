@@ -2,32 +2,46 @@
 
 ## Week 2 Day 1
 
-### Discussion [10 minutes]
-
-- Open Communication
-- Collaborative
-- Hard to Fail
-
-### Assignment Review [20 minutes]
-
-- Pull Request Feedback
-- Use of Tables and Divs
-- Use of Selectors
-- Grouping within CSS
-- Showcase
-- Demo
+### Assignment Review 
 
 ### Learning Objectives
+- Script tag
+- Data Types Part I 
+  - Assignments, Operators, & Comparisons
+- Data Types Part II 
+  - Arrays
+  - Objects
+- Live Practice in console
+- DOM Intro
+- document
 
-**Flex Box**
+### What are we doing?
+- We are getting into the CORE of web development by introducing Javascript and the Document Object Model
+
+### Why?
+- In order rendering things on the screen we need the DOM and to understand the DOM we need to know about
+JavaScript Objects
+
+
+### How do you know if you are doing well? How do you know if you are on track to be a Front End Developer?
+- You are able to assign values to a variable
+- you are able to create an object
+- Implement CRUD functions on Object
+- Implement CRU (Create, READ, Update) functions on Array
+
+
+### Things students forget
+array dot vs bracket notation
+object dot vs bracket notation
+
+
+
+### Extra time
+Practice practice practice. Redo what we did today.
+
 
 ### Resources
+**[Spectacle](https://www.spectacleapp.com/)**  <br>
+- http://eloquentjavascript.net/13_dom.html
+- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#Interfaces_and_Objects
 
-- https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
-- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://flexboxfroggy.com/
-
-### Exit Ticket
-
-- Socrative

@@ -2,21 +2,42 @@
 
 ## Week 3 Day 2
 
-### Warm Up
-- [Mock Up design](https://docs.google.com/presentation/d/1CDXr6jWKhIyvlCjpWFu_5Ttqw0lEKISCk9rH7ljNQbE/edit?usp=sharing)
-
-#### Reference
-
 ### Learning Objectives
 
-- Mock Up Part I. (Reverse Engineering)
-- Event Handlers
-- Mini App I. - Calculator
-- Mock Up Part II. (Design and Create To Do List)
-- [Mock Up To Do List](https://docs.google.com/presentation/d/17txojg9YklXNpYETmTjd74uhzgNeeGf01A0w2rzb9cg/edit?usp=sharing)
-  - 2 Deliverables
-    - Mock Up
-    - Code
+- loops (For Loop & While loop Only)
+- SetTimeout
+- SetInterval
+- Time
+- Create Timer
+- Create Countdown
 
-### Exit Ticket
- Deliverables
+### What are we doing?
+- We are getting into the CORE of web development by introducing Javascript and the Document Object Model
+
+### Why?
+- In order rendering things on the screen we need the DOM and to understand the DOM we need to know about
+JavaScript Objects
+
+
+### How do you know if you are doing well? How do you know if you are on track to be a Front End Developer?
+- You are able to assign values to a variable
+- you are able to create an object
+- Implement CRUD functions on Object
+- Implement CRU (Create, READ, Update) functions on Array
+
+
+### Things students forget
+array dot vs bracket notation
+object dot vs bracket notation
+
+
+
+### Extra time
+Practice practice practice. Redo what we did today.
+
+
+### Resources
+**[Spectacle](https://www.spectacleapp.com/)**  <br>
+- http://eloquentjavascript.net/13_dom.html
+- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#Interfaces_and_Objects
+

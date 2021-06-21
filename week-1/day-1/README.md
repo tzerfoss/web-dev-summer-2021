@@ -65,8 +65,12 @@ Because it is used in your emails, websites are everywhere and in just about eve
  - Hot seat in the meantime
 
 ### Resources
+
 **[Visual Studio Code](https://code.visualstudio.com/)** <br>
 **[Spectacle](https://www.spectacleapp.com/)**  <br>
 **[HTML Dog Tag List](http://www.htmldog.com/reference/htmltags/)** <br>
 **[W3Schools Tag List](http://www.w3schools.com/tags/default.asp)** <br>
 **[Quackit HTML Tag List](http://www.quackit.com/html/tags/)** <br>
+
+Room name: Summer2021VETSINTECH
+https://b.socrative.com/login/student/?feature=embed

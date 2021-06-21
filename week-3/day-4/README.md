@@ -1,20 +1,17 @@
 # Vets In Tech Web Development Course
 
-## Week 2 Day 4
+## Week 3 Day 4
+Building HTML with JS
+CreateElement
+AppendElement
+querySelector
+querySelectorAll
 
 ### Learning Objectives
-- functions
-- variables
-- assignment operator
-- console log
-- document object model (DOM)
-- document
-- getElementById
-- event handler: onclick
-- DOM style property
-- setTimeout
+- querySelector
+- querySelectorAll
 
-### Weekend Assignment Due Monday, July 5th, 12 pm PST
+### Weekend Assignment Due Monday, July 12th, 12 pm PST
 - [Video of Final Output](https://drive.google.com/file/d/1DfypL_T4TYertUuHvVarTpYtVvqJF9Ed/view?usp=sharing)
 
 BARE MINIMUM REQUIREMENTS 

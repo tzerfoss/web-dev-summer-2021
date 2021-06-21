@@ -2,20 +2,37 @@
 
 ## Week 3 Day 1
 
-### Assignment Review [15 minutes]
-
-- Breakdown
-  - Features by CSS or JS
-- `<script>` file
-- `console.log`
 
 ### Learning Objectives
+- Array Methods
+- String Methods
+- Pulling data from input
+- JS Calculator
 
-- Data Types Part I [30 minutes]
-  - Assignments, Operators, & Comparisons
-- Data Types Part II [30 minutes]
-  - Arrays
-  - Objects
-- Query Selectors [15 minutes]
+## Agenda
 
-### Exit Ticket [Socratives]
+## START HERE.
+
+### What are we doing?
+
+### Why?
+
+
+
+### How do you know if you are doing well? How do you know if you are on track to be a Front End Developer?
+
+
+
+### Things students forget
+
+
+
+
+ ### Extra time
+
+
+### Resources
+**[Spectacle](https://www.spectacleapp.com/)**  <br>
+- http://eloquentjavascript.net/13_dom.html
+- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#Interfaces_and_Objects
+

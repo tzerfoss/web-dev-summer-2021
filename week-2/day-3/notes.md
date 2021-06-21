@@ -23,7 +23,7 @@ Working from scratch. Add this bit code to your index.html file
 ```
 The concept
 
-<img src="./images/carouselHeuristic.png">
+<img src="../day-2/images/carouselHeuristic.png">
 
 We will create a window for our images to show. Nested inside of that window will be our image slider. The image slider are  all of our images, as many as we link stacked horizontally. 
 
@@ -84,7 +84,7 @@ Lets think about how we can make this move. Let's look at the Transform Document
 
 Before we implement this tranform translate function we need to understand one more thing:
 
-<img src="./images/webCoordinateSystem.png">
+<img src="../day-2/images/webCoordinateSystem.png">
 
 The origin of the web coordinate system actually starts in the top left of the webpage. When you move to the right on the x axis from the origin, those values will be positive. When you move down the y axis from the origin those values will be positive. This is different than the cartesian coordinate system that we grew up using in grade school.
 
