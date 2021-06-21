@@ -12,18 +12,16 @@
 - Create Countdown
 
 ### What are we doing?
-- We are getting into the CORE of web development by introducing Javascript and the Document Object Model
+- we are covering a last huge piece of arrays which are loops. There are two mains you must know to get started
+for and while loops
 
 ### Why?
-- In order rendering things on the screen we need the DOM and to understand the DOM we need to know about
-JavaScript Objects
-
+because if our array has dozens of elements that we need to process, we will want to repeat a process on each 
+element in the array. Loops enable us to do that.
 
 ### How do you know if you are doing well? How do you know if you are on track to be a Front End Developer?
-- You are able to assign values to a variable
-- you are able to create an object
-- Implement CRUD functions on Object
-- Implement CRU (Create, READ, Update) functions on Array
+
+- You can iterate through an array and print its contents
 
 
 ### Things students forget

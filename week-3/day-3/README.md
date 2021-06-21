@@ -11,19 +11,20 @@ Create Modal
 addEventListener class
 Triggering a modal
 
-
-## Agenda
-
-## START HERE.
-
 ### What are we doing?
+Covering some more important CSS properties and implementing exercise that shows
+up in professional development all the time, rendering a modal.
 
 ### Why?
-
+It's good UX to prompt the user are they sure they want to delete "XYZ" before executing
+the command. It's a good practice to let the user know that they will be logged out in 
+30 secs if they do not use the webpage for security purposes. So on and so forth,
+modals are very helpful and frequently used in web development.
 
 
 ### How do you know if you are doing well? How do you know if you are on track to be a Front End Developer?
-
+- you are able to create a modal
+- you know when your CSS will be overwritten by another CSS selector.
 
 
 ### Things students forget

@@ -18,6 +18,9 @@
 - Image Carousel
 
 ## Agenda
+- CSS ReIntroduction
+- Animated Carousel
+
 
 ### Warm Up - Socrative Flex box
 

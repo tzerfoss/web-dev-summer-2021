@@ -5,6 +5,8 @@
 ### Assignment Review 
 
 ### Learning Objectives
+GOAL: practice changing properties on the DOM
+
 - Script tag
 - external js files
 - Data Types Part I 
