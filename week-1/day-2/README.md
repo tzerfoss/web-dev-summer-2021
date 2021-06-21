@@ -2,6 +2,23 @@
 
 ## Week 1 Day 2
 
+### Learning Objectives (Includes some repeats from day 1)
+
+HTML Tags
+- br
+- hr
+- table
+- th
+- tr
+- td
+- form
+- input
+- label
+- button
+- audio
+- video
+- source
+
 ### Warm Up [5 - 10 minutes]
 
 1. Read the rules for Inline elements and block elements in the warmup.html file
@@ -26,24 +43,6 @@ If you can answer the questions or do these tasks below (and please don't just s
 5. Can you create a video player in your website? Can you adjust the width and height using only html?
 6. Can you create a form with a button?
 7. Can you style/structure the form so that the input fields vertically align using only HTML?
-
-
-### Learning Objectives (Includes some repeats from day 1)
-
-HTML Tags
-- br
-- hr
-- table
-- th
-- tr
-- td
-- form
-- input
-- label
-- button
-- audio
-- video
-- source
 
 
 ### Challenge (Test Your Understanding)

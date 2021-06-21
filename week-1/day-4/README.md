@@ -35,7 +35,7 @@ If you can answer the questions or do these tasks below (and please don't just s
    - CSS Properties and Values
    - Flex container and flex items
    - Justify Content
-   - Flexbox Froggu
+   - Flexbox Froggy
 
 ### Warm Up [10 minutes]
 

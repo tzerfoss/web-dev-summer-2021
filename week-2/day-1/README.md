@@ -6,6 +6,7 @@
 
 ### Learning Objectives
 - Script tag
+- external js files
 - Data Types Part I 
   - Assignments, Operators, & Comparisons
 - Data Types Part II 

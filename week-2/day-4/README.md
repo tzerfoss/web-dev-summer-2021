@@ -2,17 +2,20 @@
 
 ## Week 2 Day 4
 
+EOD Sprint Retrospective
+
 ### Learning Objectives
+- conditional statements
 - functions
 - variables
 - assignment operator
 - console log
 - document object model (DOM)
 - document
-- getElementById
-- event handler: onclick
-- DOM style property
-- setTimeout
+- JS Carousel
+
+
+
 
 ### Weekend Assignment Due Monday, July 5th, 12 pm PST
 - [Video of Final Output](https://drive.google.com/file/d/1DfypL_T4TYertUuHvVarTpYtVvqJF9Ed/view?usp=sharing)

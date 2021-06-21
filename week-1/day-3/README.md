@@ -1,7 +1,7 @@
 # VetsInTech Week 1 - Day 3
 
 ### Learning Objectives
-- Box-model (saved for tomorrow)
+- Box-model 
 - Font-size
 - font-weight
 - Text-align
@@ -35,9 +35,8 @@ do not need to remember 200 properties to do something significant.
 TYPOS and syntax for attributes, and style selectors. Practice makes perfect.
 
 
-
- ### Extra time
-
+### Extra time
+ABC
 
 ### Resources
 - [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
@@ -45,48 +44,6 @@ TYPOS and syntax for attributes, and style selectors. Practice makes perfect.
 - http://eloquentjavascript.net/13_dom.html
 - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#Interfaces_and_Objects
 
-# Vets In Tech Web Development Course
-
-## Week 2 Day 1
-
-### Learning Objectives
-- CSS Coordinate System
-- Transform
-- Transition
-
-- Position
-
-- Z-index
-- Visibility
-- Hover
-- focus
-
-## Agenda
-
-### Assignment Review [5 - 10 minutes]
-
-- Pull Request Feedback
-- Use of Tables and Divs
-- Use of Selectors
-- Grouping within CSS
-- Showcase
-- Demo
-
-
-### Warm Up - Socrative Flex box
-
-Roomname: Summer2021VETSINTECH
-https://b.socrative.com/login/student/?feature=embed
-
-### Lecture
-
-### What are we doing today?
-
-We are learning about more must know CSS properties to make our websites dynamic
-
-### Why are we doing this?
-
-Soon you will want to make modals and animate elements on your website to make things dynamic.
 
 
 

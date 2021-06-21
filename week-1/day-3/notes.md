@@ -25,7 +25,6 @@ The first word after first quote, is called a ```property``` what comes after th
 
 ### CSS Must Know Properties and Values (1 - Basics/css1.html)
 
-- Box-model (saved for tomorrow)
 - Font-size
 - font-weight
 - Text-align
@@ -37,6 +36,7 @@ The first word after first quote, is called a ```property``` what comes after th
 - Height
 - Width
 - text align
+- Box Model
 
 Uncomment the code in the css1.html file one by one in correspondence to the bulleted list above so that you can see how 
 the most frequently used property values pairs work.
@@ -174,4 +174,42 @@ Save in your editor and now refresh in that browser! WOW. COLOR.
 
 Display actually changes the structure of the element. You can change most elements to either a block, inline-block or inline.
 
+
+## Box Model
+
+Everything in CSS has a box around it, and understanding these boxes is key to being able to create layouts with CSS, or to align items with other items. In this lesson, we will take a proper look at the CSS Box Model so that you can build more complex layout tasks with an understanding of how it works and the terminology that relates to i
+
+The full CSS box model applies to block boxes, inline boxes only use some of the behavior defined in the box model. The model defines how the different parts of a box — margin, border, padding, and content — work together to create a box that you can see on the page. To add some additional complexity, there is a standard and an alternate box model.
+
+Parts of a box
+Making up a block box in CSS we have the:
+
+Content box: The area where your content is displayed, which can be sized using properties like width and height.
+Padding box: The padding sits around the content as white space; its size can be controlled using padding and related properties.
+Border box: The border box wraps the content and any padding. Its size and style can be controlled using border and related properties.
+Margin box: The margin is the outermost layer, wrapping the content, padding and border as whitespace between this box and other elements. Its size can be controlled using margin and related properties.
+
+The below diagram shows these layers:
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model/box-model.png
+
+The standard CSS box model
+In the standard box model, if you give a box a width and a height attribute, this defines the width and height of the content box. Any padding and border is then added to that width and height to get the total size taken up by the box. This is shown in the image below.
+
+If we assume that the box has the following CSS defining width, height, margin, border, and padding:
+
+```css
+.box {
+  width: 350px;
+  height: 150px;
+  margin: 10px;
+  padding: 25px;
+  border: 5px solid black;
+}
+```
+
+The space taken up by our box using the standard box model will actually be 410px (350 + 25 + 25 + 5 + 5), and the height 210px (150 + 25 + 25 + 5 + 5), as the padding and border are added to the width used for the content box.
+
+
+Browser DevTools view of the box model
 

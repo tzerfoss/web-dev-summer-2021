@@ -21,7 +21,7 @@ JavaScript Objects
 ### How do you know if you are doing well? How do you know if you are on track to be a Front End Developer?
 - You are able to assign values to a variable
 - you are able to create an object
-- Implement CRUD functions on Object
+- Implement CRUD (Create, READ, Update, Delete)functions on Object
 - Implement CRU (Create, READ, Update) functions on Array
 
 
