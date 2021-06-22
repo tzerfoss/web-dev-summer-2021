@@ -1,9 +1,9 @@
 <h1 align="center"> Vets In Tech </h1>
-<h2 align="center"> June 2021 Cohort Course Repository </h2>
+<h2 align="center"> April 2021 Cohort Course Repository </h2>
 
 # Week 1 - HTML5 && CSS3
 
-- Clone down Course Curriculum
+- Git / Git Workflow
 - Basic HTML Elements
 - Intro To CSS
 - Box Model
@@ -14,26 +14,14 @@
 # Week 2 - CSS3 && Javascript
 
 - Flexbox
-- Animated Carousel
+- CSS Carousel
 - Intro to JS
 - JS DOM Manipulation
 - JS Carousel
 
-# Week 3 - Intermediate Javascript
+# Week 3 - Javascript Review && Final Project Prep
 
-- Building HTML with JS
-- SetTimeout
-- SetInterval
-- Timers/Countdowns
-- Modals
-- CSS Coordinate system
-- Position
-- Z - Index
-- querySelector
+- Mockups
+- MVP
 
-
-# Week 4 - Final Project Completion / Graduation
-- Retail Product Page
-- Simon Says Web Game
-- Pomodoro + To Do List Productivity Web App
-- Quiz / Study Guide
+# Week 4 - Final Project / Graduation
