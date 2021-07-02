@@ -1,0 +1,91 @@
+style.css 
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    width: 100vw;
+  }
+  
+  img{
+    height: 200px;
+  }
+  
+  .main-container{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .social-media{
+    flex-direction: column;
+    border-right: 10px solid black;
+    padding: 0 10px;
+  }
+  
+  .social-media h2{
+    font-size: 3rem;
+    font-weight: 100;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .social-media p{
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .social-media img{
+    margin-top: 10px;
+    justify-content: center;
+  }
+  .contact-us{
+    flex-direction: column;
+    border-right: 10px solid black;
+    padding: 0 10px;
+  }
+  
+  .contact-us h2{
+    font-size: 3rem;
+    font-weight: 100;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .contact-us p{
+    margin-bottom: 30px;
+  }
+  .vit{
+    flex-direction: column;
+    margin-left: 10px;
+  }
+  
+  .vit .logo{
+    height: 120px;
+  }
+  
+  .vit h2{
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    padding: 10px 0;
+    font-weight: bolder;
+    font-size: 3rem;
+    text-align: center;
+    margin: 0 10px;
+  }
+  .vit p{ margin: auto;}
+
+  .vit .photos{
+    margin-top: 10px;
+  }
+  .vit .photos img{
+    justify-content: center;
+  }
